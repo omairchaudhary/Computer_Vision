@@ -8,11 +8,6 @@ The main goal of this repository is to practice and implement the concepts taugh
 
 This is a personal learning project to track my progress and build a portfolio of my computer vision skills.
 
-## Learning Source
-
-* **YouTube Channel:** [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/@murtazasworkshop)
-* **Playlist:** [OpenCV Python Tutorials for Beginners 2020](https://www.youtube.com/playlist?list=PLMoSUbG4Z_zBCx-M-n8-v0--1y0-vL0-Y) (Note: This is a best-guess link; please update if you have the direct one)
-
 ## Setup and Requirements
 
 To run these projects, you will need to have the following installed:
