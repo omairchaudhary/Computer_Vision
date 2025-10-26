@@ -20,6 +20,6 @@ cv2.imshow("DisplayImage",img)
 # This is a crucial step to keep the image window open until you are done.
 cv2.waitKey(0)
 
-# After a key is pressed (and waitKey is no longer waiting),
+
 # this command closes all the windows that were opened by OpenCV.
 cv2.destroyAllWindows()
