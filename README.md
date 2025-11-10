@@ -22,15 +22,6 @@ To run these projects, you will need to have the following installed:
     pip install numpy
     ```
 
-## Project Structure
-
-(You can update this section as you add more projects)
-
-* **/Chapter1_Read_Images:** Code for reading and displaying images, videos, and webcam feeds.
-* **/Chapter2_Basic_Functions:** Examples of basic image manipulations (grayscale, blur, edge detection, etc.).
-* **/Project_Virtual_Painter:** (Example) The code for the virtual painter project.
-* ...and so on.
-
 ## Acknowledgments
 
 A huge thank you to **Murtaza's Workshop** for creating such high-quality, free educational content on robotics and AI.
